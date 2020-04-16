@@ -19,7 +19,7 @@ z_gate.update.quantum_state(state)
 # print(value)
 
 
-# assuming that this program takes of zero time to perform its n-th step,
+# assuming that this program takes of zero time to perform its n-th Pauli-Z gate step,
 # this program allows a countably infinite number of algorithmic steps.
 # Thomson lamp is a hypothetical problem.
 
