@@ -12,12 +12,11 @@ while True:
 z_gate = Z(index)
 z_gate.update.quantum_state(state)
 
-# オブザーバブルの設定
+# observable setting
 # observalable = Observable(n)
 # observable.add_operator(1.0, "Z 2")
 # value = observable.get_expectation_value(state)
 # print(value)
-
 
 # assuming that this program takes of zero time to perform its n-th Pauli-Z gate step,
 # this program allows the completion a countably infinite number of algorithmic steps.
