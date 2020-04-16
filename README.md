@@ -1,4 +1,4 @@
 # quantum-Thomson-lamp
 
-Thomson's lamp is a philosophical puzzle. quantum-Thomson-lamp is a quantum program apply to Thomson's lamp.
+Thomson's lamp is a philosophical puzzle.Applying Thomson's lamp in quantum computing.
 This program used quantum program framework,Qulacs.
