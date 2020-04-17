@@ -19,7 +19,9 @@ x_gate.update.quantum_state(state)
 # print(value)
 
 # Assuming that this program takes of zero time to perform its n-th Pauli-X gate step,
-# this program allows the completion a countably infinite number of algorithmic steps.
+# this program allows a countably infinite number of algorithmic steps.
 # Thomson lamp is a hypothetical problem.
+# But,how about the result of measurement?  
+# Is measurement available? After the completion of infinite steps...
 
 
